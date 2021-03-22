@@ -1,5 +1,6 @@
 # PersonalBudget
-Front end - Angular 8, API - .NET Core 3 WEB API, Database - MongoDB
+A self budget maintenance app with interactive reports.
+
 
 
 
